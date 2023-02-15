@@ -1,0 +1,7 @@
+#main.svelte-17c7hqb {
+    --orange: #ff4d4d !IMPORTANT;
+    --orange-light: #ff7979 !IMPORTANT;
+    --orange-dark: #eb3636 !IMPORTANT;
+    --orange-button: var(--orange);
+    --orange-scrollbar-back: #b13737 !IMPORTANT;
+}
