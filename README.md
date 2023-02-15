@@ -7,7 +7,7 @@ Themes for meower
 > You can use the font-[font name here].css with the themes
 > using a diffrent rule or the same.
 
-Step 1: Download a copy of the theme.
+Step 1: Download a copy of the theme you want to use.
 
 Step 2: Install a code injector extension for your browser: [Firefox](https://addons.mozilla.org/en-US/firefox/addon/codeinjector/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search), [Chrome/Edge (Chromium-based)](https://chrome.google.com/webstore/detail/code-injector/edkcmfocepnifkbnbkmlcmegedeikdeb), [Edge (also)](https://microsoftedge.microsoft.com/addons/detail/code-injector/kgmlfocfgenookigofalapefagndnlnc)
 
