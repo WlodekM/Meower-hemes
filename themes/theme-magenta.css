@@ -1,0 +1,8 @@
+#main.svelte-17c7hqb {
+    font-family: monospace !IMPORTANT;
+    --orange: #df3cd9 !IMPORTANT;
+    --orange-light: #f879ff !IMPORTANT;
+    --orange-dark: #e236eb !IMPORTANT;
+    --orange-button: var(--orange);
+    --orange-scrollbar-back: #ab37b1 !IMPORTANT;
+}
